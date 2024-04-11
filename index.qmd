@@ -1,0 +1,17 @@
+---
+title: "Welcome"
+image: "assets/mebush.jpeg"
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/annalenakrause/
+    - icon: github
+      href: https://github.com/AnnaLenaKrause
+---
+
+Hi! My name is Anna and I am currently a master's student in Cognitive Neuroscience at Maastricht University.
+
+My research interests lie in the application of machine learning methods to the mental health and neuroscience domains.
+
+Contact: anna-lena.krause@student.maastrichtuniversity.nl
